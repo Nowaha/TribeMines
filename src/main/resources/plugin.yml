@@ -1,0 +1,8 @@
+name: TribeMines
+version: ${project.version}
+main: com.noahverkaik.tribemines.TribeMines
+api-version: 1.13
+authors: [Nowaha]
+website: www.noahverkaik.com
+commands:
+  oof:
